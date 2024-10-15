@@ -2,13 +2,13 @@
 [keybindings]
 [profiles]
   [[default]]
-    background_darkness = 0.15
+    background_darkness = 0.35
     background_type = transparent
-    font = Px IBM VGA9 10
+    font = Terminus
     foreground_color = "#e53c00"
     use_system_font = False
     title_use_system_font = False
-    title_font = Px IBM VGA9 9
+    title_font = Terminus
 [layouts]
   [[default]]
     [[[window0]]]
