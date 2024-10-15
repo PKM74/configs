@@ -1,0 +1,20 @@
+[global_config]
+[keybindings]
+[profiles]
+  [[default]]
+    background_darkness = 0.15
+    background_type = transparent
+    font = Px IBM VGA9 10
+    foreground_color = "#e53c00"
+    use_system_font = False
+    title_use_system_font = False
+    title_font = Px IBM VGA9 9
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]

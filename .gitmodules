@@ -1,0 +1,3 @@
+[submodule "awesome/keyboard_layout"]
+	path = awesome/keyboard_layout
+	url = https://github.com/PKM74/keyboard_layout
