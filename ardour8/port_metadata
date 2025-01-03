@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PortMeta version="1">
+  <PortID backend="ALSA" device-name="sof-hda-dsp" port-name="extern:capture_2" data-type="audio" input="1" pretty-name="Aux In 2" properties=""/>
+</PortMeta>

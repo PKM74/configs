@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PluginStats>
+  <Plugin type="VST3" id="ABCDEF019182FAEB566D624153675854" lru="1733109982" use-count="10"/>
+  <Plugin type="VST3" id="ABCDEF019182FAEB4447534244657864" lru="1729126140" use-count="5"/>
+  <Plugin type="VST3" id="56535456697461766974616C00000000" lru="1729126339" use-count="4"/>
+  <Plugin type="LV2" id="urn:ardour:a-fluidsynth" lru="1729123817" use-count="2"/>
+  <Plugin type="LV2" id="https://community.ardour.org/node/7596" lru="1732770716" use-count="49"/>
+</PluginStats>
